@@ -1,0 +1,17 @@
+total 172
+drwxrwxr-x 3 kartik kartik  4096 Apr 25 18:03 Dir0
+-rwxrwxr-x 1 kartik kartik 16712 Apr 25 18:06 exit
+-rw-rw-r-- 1 kartik kartik   896 Apr 25 18:05 exit.cpp
+-rwxrwxr-x 1 kartik kartik 16528 Apr 25 18:06 help
+-rw-rw-r-- 1 kartik kartik   833 Apr 25 18:01 help.cpp
+-rwxrwxr-x 1 kartik kartik 16568 Apr 25 18:06 list
+-rw-rw-r-- 1 kartik kartik   593 Apr 25 18:00 list.cpp
+-rwxrwxr-x 1 kartik kartik 17272 Apr 25 18:06 path
+-rw-rw-r-- 1 kartik kartik   770 Apr 25 18:01 path.cpp
+-rw-rw-r-- 1 kartik kartik    41 Apr 25 18:03 path.txt
+-rw-rw-r-- 1 kartik kartik   169 Apr 25 18:02 run-on-linux.sh
+-rwxrwxr-x 1 kartik kartik 35160 Apr 25 18:06 shell
+-rw-rw-r-- 1 kartik kartik  2248 Apr 25 18:02 shell.cpp
+-rwxrwxr-x 1 kartik kartik 16568 Apr 25 18:06 tree
+-rw-rw-r-- 1 kartik kartik   231 Apr 25 18:06 tree.cpp
+-rw-rw-r-- 1 kartik kartik     0 Apr 25 18:06 tree.txt
